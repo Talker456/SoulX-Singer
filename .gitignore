@@ -40,3 +40,5 @@ deploy/
 # midi editor
 node_modules/
 dist/
+
+Samples/
